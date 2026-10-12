@@ -1,1 +1,0 @@
-https://github.com/annabarkova-ai/ono-tebe-nado-fd
