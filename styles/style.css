@@ -18,12 +18,12 @@
 
 .header__menu-link_active {
     text-decoration: none;
-    text-transform: lowercase;  
+    text-transform: lowercase;
 }
 
 .header__menu-link {
     text-transform: lowercase;
-    text-decoration-thickness: 0.5px;  
+    text-decoration-thickness: 0.5px;
 }
 
 .logo-img {
@@ -57,7 +57,7 @@
     position: absolute;
     inset: 0;
     background-color: rgb(0, 0, 0, 0.5);
-    z-index: 1;  
+    z-index: 1;
 }
 
 .cover-title {
@@ -71,7 +71,7 @@
     text-transform: uppercase;
     font-style: bold;
     font-size: 100px;
-    color: #F0F0F0; 
+    color: #F0F0F0;
 }
 
 .aligned-text_left {
@@ -91,7 +91,7 @@
     margin-right: -30px;
 }
 
-.cover__description {   
+.cover__description { 
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -185,7 +185,7 @@
     z-index: 2;
     margin-top: auto;
     font-size: 20px;
-    color: #F0F0F0;  
+    color: #F0F0F0;
 }
 
 .lots__look-more-link {
