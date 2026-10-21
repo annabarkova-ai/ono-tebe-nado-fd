@@ -273,13 +273,6 @@
     line-height: 135%;
 }
 
-.header__address {
-    align-items: flex-start;
-    justify-self: end;
-    max-width: 240px;
-    line-height: 135%;
-}
-
 .footer__menu {
     display: flex;
     justify-content: center;
