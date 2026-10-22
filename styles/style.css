@@ -38,13 +38,13 @@
     flex-direction: column;
     font-style: normal;
     font-size: 18px;
+    line-height: 24.3px;
 }
 
 .header__address {
     align-items: flex-start;
     justify-self: end;
     max-width: 240px;
-    line-height: 135%;
 }
 
 .cover {
@@ -163,7 +163,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 48px 40px 40px;
+    padding: 48px 40px;
     height: 100%;
 }
 
@@ -193,7 +193,6 @@
 .card__text {
     z-index: 2;
     margin-top: auto;
-    line-height: 130%;
     font-size: 20px;
     color: #FFFFFF;
 }
@@ -270,18 +269,21 @@
 
 .footer__address {
     justify-content: start;
-    line-height: 135%;
+    font-size: 18px;
+    line-height: 24.3px;
 }
 
 .footer__menu {
     display: flex;
     justify-content: center;
+    margin-top: 1px;
 }
 
 .footer__menu-list {
     list-style: none;
     text-align: center;
-    line-height: 120%;
+    font-size: 18px;
+    line-height: 18px;
 }
 
 .footer__menu-link_active {
@@ -293,6 +295,7 @@
     justify-content: end;
     list-style: none;
     gap: 48px;
+    margin-top: 1px;
 }
 
 .footer__social-icon {
